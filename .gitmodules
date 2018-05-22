@@ -1,0 +1,3 @@
+[submodule "TESTFRAMEWORK"]
+	path = TESTFRAMEWORK
+	url = https://github.com/testproject1234/TESTFRAMEWORK
